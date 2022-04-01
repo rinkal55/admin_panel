@@ -1,0 +1,41 @@
+body{
+	font-family:"Roboto";
+	font-size:16px;
+	line-height:30px;
+}
+.header{
+	background: #1A237E;
+	color:#fff;
+	padding: 25px 0px;
+}
+.menubar{
+	background: #3F51B5;
+}
+.menubar li{
+	display: inline-block;
+}
+.menubar li a{
+	color:#fff;
+	display: inline-block;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 5px 20px;
+}
+.menubar li a:hover{
+	background: #1A237E;
+}
+.card{
+	border-color: #E0E0E0;
+}
+.card .card-header{
+	background: #E0E0E0;
+	color:#000;
+	font-weight: bold;
+}
+.btn-submit{
+	border-radius: 0px;
+	border:1px solid #ccc;
+	background: #E0E0E0;
+	font-size: 14px;
+	padding: 5px 10px;
+}
